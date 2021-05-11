@@ -1,1 +1,1 @@
-### for Animall Tech
+### for Animall Tech non-Redux
